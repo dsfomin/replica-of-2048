@@ -17,6 +17,7 @@ DEFINES += QT_DEPRECATED_WARNINGS
 
 SOURCES += \
     Board.cpp \
+    Brick.cpp \
     Observer.cpp \
     Subject.cpp \
     main.cpp \
@@ -24,6 +25,7 @@ SOURCES += \
 
 HEADERS += \
     Board.h \
+    Brick.h \
     Observer.h \
     Subject.h \
     mainwindow.h
