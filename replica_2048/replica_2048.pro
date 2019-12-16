@@ -18,8 +18,10 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
     Board.cpp \
     Brick.cpp \
+    GameOverWindow.cpp \
     Observer.cpp \
     QBrick.cpp \
+    ResetButton.cpp \
     Subject.cpp \
     main.cpp \
     mainwindow.cpp
@@ -27,8 +29,10 @@ SOURCES += \
 HEADERS += \
     Board.h \
     Brick.h \
+    GameOverWindow.h \
     Observer.h \
     QBrick.h \
+    ResetButton.h \
     Subject.h \
     mainwindow.h
 
