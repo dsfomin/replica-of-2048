@@ -7,8 +7,8 @@ MainWindow::MainWindow(QWidget *parent)
 {
     //ui->setupUi(this);
 
-    gameBoard = new QGameBoard(this);
-    setCentralWidget(gameBoard);
+    //gameBoard = new QGameBoard(this);
+    //setCentralWidget(gameBoard);
 }
 
 MainWindow::~MainWindow()

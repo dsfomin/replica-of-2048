@@ -17,6 +17,7 @@ public:
 
 private:
     //Ui::MainWindow *ui;
-    QGameBoard *gameBoard;
+    //QGameBoard *gameBoard;
 };
+
 #endif // MAINWINDOW_H

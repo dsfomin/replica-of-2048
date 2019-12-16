@@ -19,6 +19,7 @@ SOURCES += \
     Board.cpp \
     Brick.cpp \
     Observer.cpp \
+    QBrick.cpp \
     Subject.cpp \
     main.cpp \
     mainwindow.cpp
@@ -27,6 +28,7 @@ HEADERS += \
     Board.h \
     Brick.h \
     Observer.h \
+    QBrick.h \
     Subject.h \
     mainwindow.h
 

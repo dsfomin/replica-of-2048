@@ -1,8 +1,8 @@
 #ifndef BOARD_H
 #define BOARD_H
 
-#include "subject.h"
-#include "brick.h"
+#include "Subject.h"
+#include "Brick.h"
 
 #include <QVector>
 #include <QString>
