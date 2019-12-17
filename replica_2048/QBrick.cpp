@@ -4,7 +4,10 @@
 #include <QGraphicsDropShadowEffect>
 #include <QDebug>
 
-QBrick::QBrick(const QString &text){}
+QBrick::QBrick(const QString &text){
+
+
+}
 
 
 QBrick::QBrick(Brick* brick){

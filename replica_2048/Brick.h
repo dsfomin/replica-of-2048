@@ -1,6 +1,8 @@
 #ifndef BRICK_H
 #define BRICK_H
 
+#include <QLabel>
+
 class Brick
 {
 public:

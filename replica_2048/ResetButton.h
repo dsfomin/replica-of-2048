@@ -1,5 +1,5 @@
-#ifndef RESETBUTTON_H
-#define RESETBUTTON_H
+#ifndef QRESETBUTTON_H
+#define QRESETBUTTON_H
 
 #include <QLabel>
 
@@ -17,5 +17,4 @@ protected:
     void mousePressEvent(QMouseEvent *event);
 };
 
-
-#endif // RESETBUTTON_H
+#endif // QRESETBUTTON_H

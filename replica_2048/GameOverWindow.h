@@ -1,5 +1,5 @@
-#ifndef GAMEOVERWINDOW_H
-#define GAMEOVERWINDOW_H
+#ifndef QGAMEOVERWINDOW_H
+#define QGAMEOVERWINDOW_H
 
 #include <QWidget>
 
@@ -21,5 +21,4 @@ private:
     QResetButton* reset;
 };
 
-
-#endif // GAMEOVERWINDOW_H
+#endif // QGAMEOVERWINDOW_H

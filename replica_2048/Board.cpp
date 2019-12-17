@@ -91,7 +91,7 @@ void Board::resetBoard()
     for (int i = 0; i < dimension ; ++i) {
             for (int j = 0; j < dimension; ++j) {
                 delete board[i][j];
-                board[i][j] = NULL;
+                board[i][j] = nullptr;
             }
     }
 

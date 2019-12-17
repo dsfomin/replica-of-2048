@@ -1,6 +1,9 @@
 #include "mainwindow.h"
-#include <iostream>
-#include <time.h>
+#include "GameBoard.h"
+
+
+#include<iostream>
+#include<time.h>
 #include <QApplication>
 
 using namespace std;
@@ -11,8 +14,8 @@ int main(int argc, char *argv[])
 
     srand(time(NULL));
 
-    //QGameBoard gameBoard;
-    //gameBoard.show();
+    QGameBoard gameBoard;
+    gameBoard.show();
 
     return a.exec();
 }

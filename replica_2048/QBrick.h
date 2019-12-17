@@ -19,6 +19,7 @@ public slots:
 
 private:
     Brick *brick;
+
 };
 
 #endif // QBRICK_H

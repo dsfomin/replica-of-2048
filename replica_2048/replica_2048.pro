@@ -18,6 +18,8 @@ DEFINES += QT_DEPRECATED_WARNINGS
 SOURCES += \
     Board.cpp \
     Brick.cpp \
+    Game.cpp \
+    GameBoard.cpp \
     GameOverWindow.cpp \
     Observer.cpp \
     QBrick.cpp \
@@ -29,6 +31,8 @@ SOURCES += \
 HEADERS += \
     Board.h \
     Brick.h \
+    Game.h \
+    GameBoard.h \
     GameOverWindow.h \
     Observer.h \
     QBrick.h \
