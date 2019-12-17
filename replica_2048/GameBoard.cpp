@@ -20,7 +20,7 @@ using namespace std;
 QGameBoard::QGameBoard(QWidget *parent) : QWidget(parent)
 {
 
-    resize(650,450);
+    resize(650,650);
 
     mainLayout = new QVBoxLayout();
     setLayout(mainLayout);
